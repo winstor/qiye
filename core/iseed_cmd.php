@@ -1,0 +1,2 @@
+php artisan iseed admin_menu,admin_role_menu,admin_roles,admin_permissions,admin_role_permissions,admin_role_users,admin_user_permissions,migrations
+php artisan iseed admin_users,users,configs,sites,templates,articles,categories
